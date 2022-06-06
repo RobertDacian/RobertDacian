@@ -53,6 +53,12 @@ Rainy Days it's an e-commerce project. The project includes strategy, planning, 
 * JavaScript 
 * API calls
 
+**Project Links**
+
+- [See on GitHub](https://github.com/RobertDacian/Community-Science-Museum-Website.git)
+
+- [Live Version ](https://semester-1-project.netlify.app/)
+
 ### The Reader
 
 The Reader project is a project exam that marks the end of the first year of the front-end development at Noroff.
