@@ -4,6 +4,12 @@
 
 > Design creates culture. Culture shapes values. Values determine the future. We all have a story, **mine starts here.**
 
+# Abou me
+
+## A few things about me and who i am.
+
+
+
 
 <!--
 **RobertDacian/RobertDacian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
