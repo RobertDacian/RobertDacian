@@ -21,6 +21,11 @@ Because I only started my development career in 2021, I can say that as a fresh 
 
 Below I listed some projects that got me started on this fantastic journey, feel free to take a look, and if you find something you like or spark your interest, I would be pleased to know about it.
 
+### Few of my projects
+
+** Rainy Days **
+* Rainy Days it's an e-commerce school project. The project includes strategy, planning, design, and development. The project is built using  HTML5, CSS3, and JavaScript API calls.*
+
 
 
 
