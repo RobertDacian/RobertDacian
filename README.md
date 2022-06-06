@@ -23,32 +23,54 @@ Below I listed some projects that got me started on this fantastic journey, feel
 
 ## Few of my projects
 
-### Rainy Days
+### Community Science Museum
 
-Rainy Days it's an e-commerce school project. The project includes strategy, planning, design, and development.
+Community Science Museum is a simple project that includes research, strategy, design, and development.
 
 **Included in the project:**
 
+* Design
 * HTML5
 * CSS3
-* JavaScript API calls
+* Project Methodology
+
+### Rainy Days
+
+Rainy Days it's an e-commerce project. The project includes strategy, planning, design, and development.
+
+**Included in the project:**
+
+* Design
+* HTML5
+* CSS3
+* CMS
+* JavaScript 
+* API calls
+
+### The Reader
+
+The Reader project is a project exam that marks the end of the first year of the front-end development at Noroff.
+
+**Included in the project:**
+
+* Design
+* HTML5
+* CSS3
+* CMS
+* JavaScript 
+* API calls
+* Other Interactions
+
+# How to contact me
+
+### Please feel free to contact me on social media or by email.
+
+* Facebook - @ Robert Dacian
+* Instagram - #RobertDacian
+* E-mail - paxdacian@icloud.com
+
+I hope you enjoy my profile. If you find something you like, please get in touch with me.
+
+**Best regards, Robert**
 
 
-
-
-
-
-<!--
-**RobertDacian/RobertDacian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
