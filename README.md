@@ -2,7 +2,7 @@
 
 ## Welcome to my personal GitHub profile.
 
-### Design creates culture. Culture shapes values. Values determine the future. We all have a story, mine starts here.
+> Design creates culture. Culture shapes values. Values determine the future. We all have a story, mine starts here.
 
 
 <!--
