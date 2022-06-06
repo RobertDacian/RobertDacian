@@ -6,7 +6,11 @@
 
 # Abou me
 
-## A few things about me and who i am.
+### A few things about me and who i am.
+
+My name is Robert Dacina But, I am originally from Romania, but currently I live in Norway.
+
+I love traveling, a quiet and relaxing evening, good food , the company of great friends and ofcourse  as you can see in my GitHub account, i also love designing and developing things. 
 
 
 
