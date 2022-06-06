@@ -73,6 +73,12 @@ The Reader project is a project exam that marks the end of the first year of the
 * API calls
 * Other Interactions
 
+**Project Links**
+
+- [See on GitHub](https://github.com/RobertDacian/The-Reader-Website.git)
+
+- [Live Version ](https://project-exam-one.netlify.app/)
+
 # How to contact me
 
 ### Please feel free to contact me on social media or by email.
