@@ -24,9 +24,11 @@ Below I listed some projects that got me started on this fantastic journey, feel
 ### Few of my projects
 
 **Rainy Days**
+
 Rainy Days it's an e-commerce school project. The project includes strategy, planning, design, and development.
 
 Included in the project:
+
 *HTML5*
 *CSS3*
 *JavaScript API calls*
