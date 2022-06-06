@@ -34,11 +34,11 @@ Community Science Museum is a simple project that includes research, strategy, d
 * CSS3
 * Project Methodology
 
-**GitHub Link**
+**Project Links**
 
-- [Community Science Museum](https://github.com/RobertDacian/Community-Science-Museum-Website.git)
+- [See on GitHub](https://github.com/RobertDacian/Community-Science-Museum-Website.git)
 
-- [Bootstrap](https://getbootstrap.com)
+- [Live Version ](https://semester-1-project.netlify.app/)
 
 ### Rainy Days
 
