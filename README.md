@@ -2,6 +2,9 @@
 
 ## Welcome to my personal GitHub profile.
 
+### Design creates culture. Culture shapes values. Values determine the future. We all have a story, mine starts here.
+
+
 <!--
 **RobertDacian/RobertDacian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
