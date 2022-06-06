@@ -55,9 +55,9 @@ Rainy Days it's an e-commerce project. The project includes strategy, planning, 
 
 **Project Links**
 
-- [See on GitHub](https://github.com/RobertDacian/Community-Science-Museum-Website.git)
+- [See on GitHub](https://github.com/RobertDacian/Rainy-Days-Website.git)
 
-- [Live Version ](https://semester-1-project.netlify.app/)
+- [Live Version ](https://rainy-days-project.netlify.app/)
 
 ### The Reader
 
