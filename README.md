@@ -29,9 +29,9 @@ Rainy Days it's an e-commerce school project. The project includes strategy, pla
 
 **Included in the project:**
 
-*HTML5
-*CSS3
-*JavaScript API calls
+* HTML5
+* CSS3
+* JavaScript API calls
 
 
 
