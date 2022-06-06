@@ -11,6 +11,9 @@
 My name is Robert Dacina But, I am originally from Romania, but currently I live in Norway.
 
 I love traveling, a quiet and relaxing evening, good food , the company of great friends and ofcourse  as you can see in my GitHub account, i also love designing and developing things. 
+I started my design journey in 2018 and i because i wanted to learn more about how things work not just how they supposed to look, in the autumn of 2021 i started my development journey at Noroff.
+
+Fell free to have a look at my recent projects.
 
 
 
