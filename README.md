@@ -79,6 +79,55 @@ The Reader project is a project exam that marks the end of the first year of the
 
 - [Live Version ](https://project-exam-one.netlify.app/)
 
+### Biding Site
+
+The Biding Site project is a semester project exam that marks the end of the first semester in the second year of the front-end development at Noroff.
+
+**Included in the project:**
+
+* Design
+* HTML5
+* CSS3
+* JavaScript 
+* API calls
+* Other Interactions
+
+**Project Links**
+
+- [See on GitHub](https://github.com/RobertDacian/semester-project)
+
+- [Live Version ](https://auction.dev-squid.com)
+
+### E-commerce React Site
+
+This E-commerce React Site project is a project created with React.
+
+**Included in the project:**
+
+* Design
+* React
+
+**Project Links**
+
+- [See on GitHub](https://github.com/RobertDacian/Robert-React-CA.git)
+
+- [Live Version ](https://robert-react-ca.netlify.app)
+
+### Hilidaze Booking Site
+
+The Hilidaze Booking Site project is a project exam that marks the end of the second year of the front-end development at Noroff.
+
+**Included in the project:**
+
+* Design
+* React
+
+**Project Links**
+
+- [See on GitHub](https://github.com/RobertDacian/Holidaze-project-exam-2.git)
+
+- [Live Version ](https://holidaze-rob.netlify.app)
+
 # How to contact me
 
 ### Please feel free to contact me on social media or by email.
